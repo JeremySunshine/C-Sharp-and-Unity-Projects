@@ -1,0 +1,14 @@
+C:\Users\jerem\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\netcoreapp3.1\BooleanLogicAssignment.exe
+C:\Users\jerem\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\netcoreapp3.1\BooleanLogicAssignment.deps.json
+C:\Users\jerem\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\netcoreapp3.1\BooleanLogicAssignment.runtimeconfig.json
+C:\Users\jerem\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\netcoreapp3.1\BooleanLogicAssignment.runtimeconfig.dev.json
+C:\Users\jerem\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\netcoreapp3.1\BooleanLogicAssignment.dll
+C:\Users\jerem\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\netcoreapp3.1\BooleanLogicAssignment.pdb
+C:\Users\jerem\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.AssemblyInfo.cs
+C:\Users\jerem\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.dll
+C:\Users\jerem\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.pdb
+C:\Users\jerem\source\repos\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\netcoreapp3.1\BooleanLogicAssignment.genruntimeconfig.cache
