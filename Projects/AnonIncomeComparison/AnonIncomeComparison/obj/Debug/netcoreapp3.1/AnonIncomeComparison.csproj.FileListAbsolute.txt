@@ -1,0 +1,14 @@
+C:\Users\jerem\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeComparison\AnonIncomeComparison\bin\Debug\netcoreapp3.1\AnonIncomeComparison.exe
+C:\Users\jerem\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeComparison\AnonIncomeComparison\bin\Debug\netcoreapp3.1\AnonIncomeComparison.deps.json
+C:\Users\jerem\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeComparison\AnonIncomeComparison\bin\Debug\netcoreapp3.1\AnonIncomeComparison.runtimeconfig.json
+C:\Users\jerem\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeComparison\AnonIncomeComparison\bin\Debug\netcoreapp3.1\AnonIncomeComparison.runtimeconfig.dev.json
+C:\Users\jerem\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeComparison\AnonIncomeComparison\bin\Debug\netcoreapp3.1\AnonIncomeComparison.dll
+C:\Users\jerem\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeComparison\AnonIncomeComparison\bin\Debug\netcoreapp3.1\AnonIncomeComparison.pdb
+C:\Users\jerem\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeComparison\AnonIncomeComparison\obj\Debug\netcoreapp3.1\AnonIncomeComparison.csproj.AssemblyReference.cache
+C:\Users\jerem\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeComparison\AnonIncomeComparison\obj\Debug\netcoreapp3.1\AnonIncomeComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeComparison\AnonIncomeComparison\obj\Debug\netcoreapp3.1\AnonIncomeComparison.AssemblyInfoInputs.cache
+C:\Users\jerem\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeComparison\AnonIncomeComparison\obj\Debug\netcoreapp3.1\AnonIncomeComparison.AssemblyInfo.cs
+C:\Users\jerem\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeComparison\AnonIncomeComparison\obj\Debug\netcoreapp3.1\AnonIncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\jerem\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeComparison\AnonIncomeComparison\obj\Debug\netcoreapp3.1\AnonIncomeComparison.dll
+C:\Users\jerem\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeComparison\AnonIncomeComparison\obj\Debug\netcoreapp3.1\AnonIncomeComparison.pdb
+C:\Users\jerem\OneDrive\Desktop\Basic_C#_Programs\AnonIncomeComparison\AnonIncomeComparison\obj\Debug\netcoreapp3.1\AnonIncomeComparison.genruntimeconfig.cache
