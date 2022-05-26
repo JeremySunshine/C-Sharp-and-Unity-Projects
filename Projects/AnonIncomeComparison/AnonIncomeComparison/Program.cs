@@ -27,7 +27,7 @@ namespace AnonIncomeComparison
 
             Console.WriteLine("What is your hourly rate?");
             string hourlyRate2 = Console.ReadLine();
-            int hourINT2 = Convert.ToInt16(hourlyRate1);
+            int hourINT2 = Convert.ToInt16(hourlyRate2);
 
             Console.WriteLine("How many hours do you work per week?");
             string weekHours2 = Console.ReadLine();
@@ -35,13 +35,13 @@ namespace AnonIncomeComparison
 
             Console.WriteLine("Person 1 Annual Salary");
             int num1 = 52;
-            int product1 = weekINT * num1;
+            int product1 = hourINT * weekINT * num1;
             Console.WriteLine(product1);
             Console.ReadLine();
 
             Console.WriteLine("Person 2 Annual Salary");
             int num2 = 52;
-            int prodcut2 = weekINT2 * num2;
+            int prodcut2 =  hourINT2 * weekINT2 * num2;
             Console.WriteLine(prodcut2);
             Console.ReadLine();
 
