@@ -26,17 +26,8 @@ namespace BooleanLogicAssignment
             string yourTickets = Console.ReadLine();
             int ticketsINT = Convert.ToInt32(yourTickets);
 
-            const string V = "15";
-            bool isQuailified = ageINT <= V && DUI == "false" && yourTickets <= "3";
-
-
-
-
-
-
-
-
-
+            bool isQuailified = ageINT > 15 && dui1 == false && ticketsINT <= 3;
+            Console.WriteLine(isQuailified);
 
 
         }
