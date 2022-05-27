@@ -45,11 +45,19 @@ namespace Loops
                 }
 
             }
-
             while (!isGuessed);
+
+            int i = 0;
+            while (i < 4)
             {
-                
-            } Console.ReadLine();
+                Console.WriteLine(i);
+                i++;
+            }
+
+
+
+
+            Console.ReadLine();
         }
     }
 }
