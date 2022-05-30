@@ -33,7 +33,7 @@ namespace BranchingAssignment
                 else
                 {
                     int totalCost = pkgWidth * pkgHeight * pkgLength * pkgWeight / 100;
-                    Console.WriteLine("Youre estimated total shipping for this package is : $" + totalCost);\
+                    Console.WriteLine("Youre estimated total shipping for this package is : $" + totalCost);
                     Console.ReadLine();
 
                 }
