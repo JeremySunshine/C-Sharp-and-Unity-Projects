@@ -1,0 +1,14 @@
+C:\Users\jerem\source\repos\arrayAssignment\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.exe
+C:\Users\jerem\source\repos\arrayAssignment\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.deps.json
+C:\Users\jerem\source\repos\arrayAssignment\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.runtimeconfig.json
+C:\Users\jerem\source\repos\arrayAssignment\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.runtimeconfig.dev.json
+C:\Users\jerem\source\repos\arrayAssignment\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.dll
+C:\Users\jerem\source\repos\arrayAssignment\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.pdb
+C:\Users\jerem\source\repos\arrayAssignment\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\arrayAssignment\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\arrayAssignment\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\arrayAssignment\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.AssemblyInfo.cs
+C:\Users\jerem\source\repos\arrayAssignment\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\arrayAssignment\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.dll
+C:\Users\jerem\source\repos\arrayAssignment\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.pdb
+C:\Users\jerem\source\repos\arrayAssignment\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.genruntimeconfig.cache
