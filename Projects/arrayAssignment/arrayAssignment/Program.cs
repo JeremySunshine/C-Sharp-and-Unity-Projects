@@ -10,34 +10,43 @@ namespace arrayAssignment
     {
         static void Main()
         {
-            string[] cars = { "Ford, BMW, Nissan, GMC" };
-            Console.WriteLine("Please type in a car brand");
+            String[] cars = { "Ford", "GMC", "BMW", "lamborghini" };
+            Console.WriteLine("Select an index between 0 - 3");
+            int index = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(cars[index]);
             Console.ReadLine();
 
-            int[] numArray1 = new int[] { 5, 2, 10, 200, 5000 };
-            Console.WriteLine("Please select a number between 0-5");
-            string userNum = Console.ReadLine();
-            int userNum1 = Convert.ToInt32(userNum);
-            if (userNum1 > 5)
-            {
-                Console.WriteLine(userNum1 + " Is not an index");
 
-            }
+            
 
-
-
-            Console.WriteLine("Please slect aan index between 0-4")
-            List<int> intlist = new List<int>();
-            intlist.Add(5);
-            intlist.Add(10);
-            intlist.Add(15);
-            intlist.Add(20);
-            intlist.Add(25);
-            string userNum2 = Console.ReadLine();
-            int userNum2 = Convert.ToInt32(userNum);
+            int[] luckyNumbers = { 4, 8, 15, 16, 23, 42 };
+            Console.Write("Select an index 0-5 to determine your lucky number");
+            string index2 = luckyNumbers.ToString();
+            Console.WriteLine(luckyNumbers[index]);
+            Console.ReadLine();
+            
 
 
-            Console.WriteLine(intlist + userNum2);
+
+            
+
+
+
+            Console.WriteLine("Please slect aan index b;tween 0-4");
+
+            List<string> food = new List<string>();
+            food.Add("pizza");
+            food.Add("hamburger");
+            food.Add("hotdog");
+            food.Add("fries");
+
+            int index3 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(food[index3]);
+
+
+
+
+
         }
     }
 }
