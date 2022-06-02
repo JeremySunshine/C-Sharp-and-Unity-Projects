@@ -1,0 +1,14 @@
+C:\Users\jerem\source\repos\iterationAssignment\iterationAssignment\bin\Debug\netcoreapp3.1\iterationAssignment.exe
+C:\Users\jerem\source\repos\iterationAssignment\iterationAssignment\bin\Debug\netcoreapp3.1\iterationAssignment.deps.json
+C:\Users\jerem\source\repos\iterationAssignment\iterationAssignment\bin\Debug\netcoreapp3.1\iterationAssignment.runtimeconfig.json
+C:\Users\jerem\source\repos\iterationAssignment\iterationAssignment\bin\Debug\netcoreapp3.1\iterationAssignment.runtimeconfig.dev.json
+C:\Users\jerem\source\repos\iterationAssignment\iterationAssignment\bin\Debug\netcoreapp3.1\iterationAssignment.dll
+C:\Users\jerem\source\repos\iterationAssignment\iterationAssignment\bin\Debug\netcoreapp3.1\iterationAssignment.pdb
+C:\Users\jerem\source\repos\iterationAssignment\iterationAssignment\obj\Debug\netcoreapp3.1\iterationAssignment.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\iterationAssignment\iterationAssignment\obj\Debug\netcoreapp3.1\iterationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\iterationAssignment\iterationAssignment\obj\Debug\netcoreapp3.1\iterationAssignment.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\iterationAssignment\iterationAssignment\obj\Debug\netcoreapp3.1\iterationAssignment.AssemblyInfo.cs
+C:\Users\jerem\source\repos\iterationAssignment\iterationAssignment\obj\Debug\netcoreapp3.1\iterationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\iterationAssignment\iterationAssignment\obj\Debug\netcoreapp3.1\iterationAssignment.dll
+C:\Users\jerem\source\repos\iterationAssignment\iterationAssignment\obj\Debug\netcoreapp3.1\iterationAssignment.pdb
+C:\Users\jerem\source\repos\iterationAssignment\iterationAssignment\obj\Debug\netcoreapp3.1\iterationAssignment.genruntimeconfig.cache
