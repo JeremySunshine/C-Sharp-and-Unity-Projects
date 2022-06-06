@@ -72,7 +72,7 @@ namespace iterationAssignment
             number.Add("8");
             number.Add("9");
             number.Add("10");
-            Console.ReadLine();
+            
 
             int favNum = Convert.ToInt32(Console.ReadLine());
             
@@ -99,7 +99,7 @@ namespace iterationAssignment
             }
             Console.ReadLine();
 
-
+            
 
         }
     }
