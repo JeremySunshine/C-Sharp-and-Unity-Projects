@@ -10,30 +10,46 @@ namespace tryCatchAssignment
     {
         static void Main(string[] args)
         {
-            List<int> intList = new List<int>();
-            intList.Add(10);
-            intList.Add(12);
-            intList.Add(14);
-            intList.Add(16);
-            intList.Add(18);
-            intList.Add(20);
-            
-
-
-            Console.WriteLine("Select a number you would like to divide by");
-            int userNum = Convert.ToInt32(Console.ReadLine());
-
-            for ()
+            try
             {
+                //Create a list of integers
+
+                int[] numbers = { 6, 10, 14, 16, 20 };
+
+                // Ask user for number to divide by
+
+                Console.WriteLine("Select a number you would like to divide by");
+                int userNum = Convert.ToInt32(Console.ReadLine());
+
+                //Loop that divides user number by each item in list
+
+                for (int i = 0; i < numbers.Length; i++)
+                {
+                    numbers[i] = numbers[i] / userNum;
+
+                    Console.WriteLine(numbers[i]);
+                }
+
+                }
+                catch (FormatException ex)
+                {
+                    Console.WriteLine("Please type in a whole number");
+                }
+
+                catch (DivideByZeroException ex)
+                {
+                    Console.WriteLine("Please don't divide by zero");
+                }
+
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+                finally
+                {
+                    Console.ReadLine();
+                }
 
             }
-
-            
-
-
-
-
-
         }
-    }
-}
+ }
