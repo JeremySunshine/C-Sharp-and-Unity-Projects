@@ -1,0 +1,14 @@
+C:\Users\jerem\source\repos\classSubmissonAssignment\bin\Debug\netcoreapp3.1\classSubmissonAssignment.exe
+C:\Users\jerem\source\repos\classSubmissonAssignment\bin\Debug\netcoreapp3.1\classSubmissonAssignment.deps.json
+C:\Users\jerem\source\repos\classSubmissonAssignment\bin\Debug\netcoreapp3.1\classSubmissonAssignment.runtimeconfig.json
+C:\Users\jerem\source\repos\classSubmissonAssignment\bin\Debug\netcoreapp3.1\classSubmissonAssignment.runtimeconfig.dev.json
+C:\Users\jerem\source\repos\classSubmissonAssignment\bin\Debug\netcoreapp3.1\classSubmissonAssignment.dll
+C:\Users\jerem\source\repos\classSubmissonAssignment\bin\Debug\netcoreapp3.1\classSubmissonAssignment.pdb
+C:\Users\jerem\source\repos\classSubmissonAssignment\obj\Debug\netcoreapp3.1\classSubmissonAssignment.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\classSubmissonAssignment\obj\Debug\netcoreapp3.1\classSubmissonAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\classSubmissonAssignment\obj\Debug\netcoreapp3.1\classSubmissonAssignment.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\classSubmissonAssignment\obj\Debug\netcoreapp3.1\classSubmissonAssignment.AssemblyInfo.cs
+C:\Users\jerem\source\repos\classSubmissonAssignment\obj\Debug\netcoreapp3.1\classSubmissonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\classSubmissonAssignment\obj\Debug\netcoreapp3.1\classSubmissonAssignment.dll
+C:\Users\jerem\source\repos\classSubmissonAssignment\obj\Debug\netcoreapp3.1\classSubmissonAssignment.pdb
+C:\Users\jerem\source\repos\classSubmissonAssignment\obj\Debug\netcoreapp3.1\classSubmissonAssignment.genruntimeconfig.cache
