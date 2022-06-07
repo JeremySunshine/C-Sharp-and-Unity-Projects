@@ -1,0 +1,14 @@
+C:\Users\jerem\source\repos\mainMethodAssignment\bin\Debug\netcoreapp3.1\mainMethodAssignment.exe
+C:\Users\jerem\source\repos\mainMethodAssignment\bin\Debug\netcoreapp3.1\mainMethodAssignment.deps.json
+C:\Users\jerem\source\repos\mainMethodAssignment\bin\Debug\netcoreapp3.1\mainMethodAssignment.runtimeconfig.json
+C:\Users\jerem\source\repos\mainMethodAssignment\bin\Debug\netcoreapp3.1\mainMethodAssignment.runtimeconfig.dev.json
+C:\Users\jerem\source\repos\mainMethodAssignment\bin\Debug\netcoreapp3.1\mainMethodAssignment.dll
+C:\Users\jerem\source\repos\mainMethodAssignment\bin\Debug\netcoreapp3.1\mainMethodAssignment.pdb
+C:\Users\jerem\source\repos\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.AssemblyInfo.cs
+C:\Users\jerem\source\repos\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.dll
+C:\Users\jerem\source\repos\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.pdb
+C:\Users\jerem\source\repos\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.genruntimeconfig.cache
