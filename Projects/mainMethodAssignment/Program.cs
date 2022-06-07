@@ -13,17 +13,17 @@ namespace mainMethodAssignment
             // creating integer to pass through
 
             int num1 = 10;
-            Console.WriteLine(mathObject.method1(num1));
+            Console.WriteLine(mathObject.method(num1));
 
             // creating second integer
 
-            decimal num2 = 987;
-            Console.WriteLine(mathObject.method2(Convert.ToInt32(num2)));
+            decimal num2 = 987.25m;
+            Console.WriteLine(mathObject.method(num2));
 
             // creating string to integer
 
-            string number = " 15 ";
-            Console.WriteLine(mathObject.method3(Convert.ToString(number)));
+            string number = "15";
+            Console.WriteLine(mathObject.method(number));
         }
     }
 }
