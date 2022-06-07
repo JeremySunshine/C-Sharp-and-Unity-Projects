@@ -8,6 +8,7 @@ namespace methodSubmission
         {
             // instantiate class
             methods mathOpp = new methods();
+            
 
            
 
@@ -16,13 +17,18 @@ namespace methodSubmission
             int userInput = Convert.ToInt32(Console.ReadLine());
 
             //asking user for num2
-            Console.WriteLine("Plese input a second number if you would like: ");
-            int userInput2= Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine(mathOpp.parameters(userInput2));
-            Console.WriteLine(mathOpp.parameters(userInput2));
-
-
+            Console.WriteLine("Plese input a second number if you would like: "); 
+            string userInputString = Console.ReadLine();
+            if ( userInputString == "")
+            {
+                Console.WriteLine(mathOpp.parameters(userInput));
+            }
+            else
+            {
+                int userInputInt = Convert.ToInt32(userInputString);
+                Console.WriteLine(mathOpp.parameters(userInput, userInputInt));
+            }
+            Console.ReadLine();
 
         }
     }

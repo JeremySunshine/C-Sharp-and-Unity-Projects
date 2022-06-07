@@ -8,10 +8,10 @@ namespace methodSubmission
     {
         // method that takes in two integers as parameters
 
-        public int parameters(int x, int y)
+        public int parameters(int x, int y = 4)
         {
-            int z = x + y;
-            return z;
+
+            return x + y; 
 
         }
     }
