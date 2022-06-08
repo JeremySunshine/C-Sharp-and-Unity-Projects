@@ -7,14 +7,14 @@ namespace methodsANDobjects
     // Create  a class named person, add two properties
     public  class Person
     {
+        public string fName;
+        public string Lname;
+
         public void sayName()
         {
-            string firstName = "Jeremy";
+            
 
-
-            string lastName = "Sonnenschein";
-
-            Console.WriteLine("Name: " + firstName + lastName);
+            Console.WriteLine("Name: " + fName + Lname);
         }
 
       

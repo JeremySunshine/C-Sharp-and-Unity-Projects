@@ -8,7 +8,10 @@ namespace methodsANDobjects
         {
             Employee employeeName = new Employee();
             {
-                
+                employeeName.fName = "Sample";
+                employeeName.Lname = "Student";
+                employeeName.sayName();
+
             }
             
         }

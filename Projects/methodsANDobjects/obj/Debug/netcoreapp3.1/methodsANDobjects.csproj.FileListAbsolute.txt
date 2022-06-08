@@ -1,0 +1,14 @@
+C:\Users\jerem\source\repos\methodsANDobjects\bin\Debug\netcoreapp3.1\methodsANDobjects.exe
+C:\Users\jerem\source\repos\methodsANDobjects\bin\Debug\netcoreapp3.1\methodsANDobjects.deps.json
+C:\Users\jerem\source\repos\methodsANDobjects\bin\Debug\netcoreapp3.1\methodsANDobjects.runtimeconfig.json
+C:\Users\jerem\source\repos\methodsANDobjects\bin\Debug\netcoreapp3.1\methodsANDobjects.runtimeconfig.dev.json
+C:\Users\jerem\source\repos\methodsANDobjects\bin\Debug\netcoreapp3.1\methodsANDobjects.dll
+C:\Users\jerem\source\repos\methodsANDobjects\bin\Debug\netcoreapp3.1\methodsANDobjects.pdb
+C:\Users\jerem\source\repos\methodsANDobjects\obj\Debug\netcoreapp3.1\methodsANDobjects.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\methodsANDobjects\obj\Debug\netcoreapp3.1\methodsANDobjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\methodsANDobjects\obj\Debug\netcoreapp3.1\methodsANDobjects.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\methodsANDobjects\obj\Debug\netcoreapp3.1\methodsANDobjects.AssemblyInfo.cs
+C:\Users\jerem\source\repos\methodsANDobjects\obj\Debug\netcoreapp3.1\methodsANDobjects.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\methodsANDobjects\obj\Debug\netcoreapp3.1\methodsANDobjects.dll
+C:\Users\jerem\source\repos\methodsANDobjects\obj\Debug\netcoreapp3.1\methodsANDobjects.pdb
+C:\Users\jerem\source\repos\methodsANDobjects\obj\Debug\netcoreapp3.1\methodsANDobjects.genruntimeconfig.cache
