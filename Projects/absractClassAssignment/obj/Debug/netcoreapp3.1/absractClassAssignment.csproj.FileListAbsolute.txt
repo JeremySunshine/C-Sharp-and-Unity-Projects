@@ -1,0 +1,14 @@
+C:\Users\jerem\source\repos\absractClassAssignment\obj\Debug\netcoreapp3.1\absractClassAssignment.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\absractClassAssignment\obj\Debug\netcoreapp3.1\absractClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\absractClassAssignment\obj\Debug\netcoreapp3.1\absractClassAssignment.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\absractClassAssignment\obj\Debug\netcoreapp3.1\absractClassAssignment.AssemblyInfo.cs
+C:\Users\jerem\source\repos\absractClassAssignment\obj\Debug\netcoreapp3.1\absractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\absractClassAssignment\bin\Debug\netcoreapp3.1\absractClassAssignment.exe
+C:\Users\jerem\source\repos\absractClassAssignment\bin\Debug\netcoreapp3.1\absractClassAssignment.deps.json
+C:\Users\jerem\source\repos\absractClassAssignment\bin\Debug\netcoreapp3.1\absractClassAssignment.runtimeconfig.json
+C:\Users\jerem\source\repos\absractClassAssignment\bin\Debug\netcoreapp3.1\absractClassAssignment.runtimeconfig.dev.json
+C:\Users\jerem\source\repos\absractClassAssignment\bin\Debug\netcoreapp3.1\absractClassAssignment.dll
+C:\Users\jerem\source\repos\absractClassAssignment\bin\Debug\netcoreapp3.1\absractClassAssignment.pdb
+C:\Users\jerem\source\repos\absractClassAssignment\obj\Debug\netcoreapp3.1\absractClassAssignment.dll
+C:\Users\jerem\source\repos\absractClassAssignment\obj\Debug\netcoreapp3.1\absractClassAssignment.pdb
+C:\Users\jerem\source\repos\absractClassAssignment\obj\Debug\netcoreapp3.1\absractClassAssignment.genruntimeconfig.cache
