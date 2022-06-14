@@ -9,8 +9,11 @@ namespace methodClassAssignment
             // instantiate the class 
             math mathOpp = new math();
 
-            mathOpp.Multiply();
+            
             mathOpp.Multiply(5, 6);
+
+            
+            mathOpp.Multiply();
             
         }
     }
