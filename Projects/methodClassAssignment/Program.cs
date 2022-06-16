@@ -13,7 +13,7 @@ namespace methodClassAssignment
             mathOpp.Multiply(5, 6);
 
             
-            mathOpp.Multiply();
+            mathOpp.Multiply(x: 5, y: 6);
             
         }
     }
