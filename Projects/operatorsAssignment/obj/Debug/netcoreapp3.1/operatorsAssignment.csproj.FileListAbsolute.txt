@@ -1,0 +1,14 @@
+C:\Users\jerem\source\repos\operatorsAssignment\bin\Debug\netcoreapp3.1\operatorsAssignment.exe
+C:\Users\jerem\source\repos\operatorsAssignment\bin\Debug\netcoreapp3.1\operatorsAssignment.deps.json
+C:\Users\jerem\source\repos\operatorsAssignment\bin\Debug\netcoreapp3.1\operatorsAssignment.runtimeconfig.json
+C:\Users\jerem\source\repos\operatorsAssignment\bin\Debug\netcoreapp3.1\operatorsAssignment.runtimeconfig.dev.json
+C:\Users\jerem\source\repos\operatorsAssignment\bin\Debug\netcoreapp3.1\operatorsAssignment.dll
+C:\Users\jerem\source\repos\operatorsAssignment\bin\Debug\netcoreapp3.1\operatorsAssignment.pdb
+C:\Users\jerem\source\repos\operatorsAssignment\obj\Debug\netcoreapp3.1\operatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\operatorsAssignment\obj\Debug\netcoreapp3.1\operatorsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\operatorsAssignment\obj\Debug\netcoreapp3.1\operatorsAssignment.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\operatorsAssignment\obj\Debug\netcoreapp3.1\operatorsAssignment.AssemblyInfo.cs
+C:\Users\jerem\source\repos\operatorsAssignment\obj\Debug\netcoreapp3.1\operatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\operatorsAssignment\obj\Debug\netcoreapp3.1\operatorsAssignment.dll
+C:\Users\jerem\source\repos\operatorsAssignment\obj\Debug\netcoreapp3.1\operatorsAssignment.pdb
+C:\Users\jerem\source\repos\operatorsAssignment\obj\Debug\netcoreapp3.1\operatorsAssignment.genruntimeconfig.cache
