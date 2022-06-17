@@ -23,10 +23,10 @@ namespace enumAssignment
             try
             {
                 //Asking user to enter a day of the week
-                Console.WriteLine("Please enter the current day of the week 1-7?");
+                Console.WriteLine("Please enter the current day of the week?");
                 string userDay = Console.ReadLine();
 
-                DayofTheWeek day = (DayofTheWeek)Convert.ToInt32(userDay);
+                DayofTheWeek day = (DayofTheWeek)Enum.Parse(typeof(DayofTheWeek), userDay);
 
                 Console.WriteLine(day);
                 Console.ReadLine();
