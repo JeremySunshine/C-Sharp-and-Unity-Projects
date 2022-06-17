@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jerem\\OneDrive\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\Projects\\enumAssignment\\enumAssignment.csproj": {}
+    "C:\\Users\\jerem\\source\\repos\\enumAssignment\\enumAssignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jerem\\OneDrive\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\Projects\\enumAssignment\\enumAssignment.csproj": {
+    "C:\\Users\\jerem\\source\\repos\\enumAssignment\\enumAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jerem\\OneDrive\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\Projects\\enumAssignment\\enumAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\jerem\\source\\repos\\enumAssignment\\enumAssignment.csproj",
         "projectName": "enumAssignment",
-        "projectPath": "C:\\Users\\jerem\\OneDrive\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\Projects\\enumAssignment\\enumAssignment.csproj",
+        "projectPath": "C:\\Users\\jerem\\source\\repos\\enumAssignment\\enumAssignment.csproj",
         "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jerem\\OneDrive\\Documents\\GitHub\\C-Sharp-and-Unity-Projects\\Projects\\enumAssignment\\obj\\",
+        "outputPath": "C:\\Users\\jerem\\source\\repos\\enumAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

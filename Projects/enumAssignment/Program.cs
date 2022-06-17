@@ -23,23 +23,18 @@ namespace enumAssignment
             try
             {
                 //Asking user to enter a day of the week
-                Console.WriteLine("Please enter the current day of the week");
+                Console.WriteLine("Please enter the current day of the week 1-7?");
                 string userDay = Console.ReadLine();
-                
-                int DayOf = Int32.Parse(userDay);
-                {
-                    Console.ReadLine();
-                }
 
-                
+                DayofTheWeek day = (DayofTheWeek)Convert.ToInt32(userDay);
 
-                Console.WriteLine(DayOf);
+                Console.WriteLine(day);
                 Console.ReadLine();
             }
 
             catch
             {
-                Console.WriteLine("Please enter an actual day of the week");
+                Console.WriteLine("Please use the numbers 1- 7");
             }
             
         }
