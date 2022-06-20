@@ -1,0 +1,14 @@
+C:\Users\jerem\source\repos\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.exe
+C:\Users\jerem\source\repos\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.deps.json
+C:\Users\jerem\source\repos\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.runtimeconfig.json
+C:\Users\jerem\source\repos\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.runtimeconfig.dev.json
+C:\Users\jerem\source\repos\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.dll
+C:\Users\jerem\source\repos\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.pdb
+C:\Users\jerem\source\repos\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.AssemblyInfo.cs
+C:\Users\jerem\source\repos\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.dll
+C:\Users\jerem\source\repos\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.pdb
+C:\Users\jerem\source\repos\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.genruntimeconfig.cache
