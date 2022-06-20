@@ -34,7 +34,7 @@ namespace enumAssignment
 
             catch
             {
-                Console.WriteLine("Please use the numbers 1- 7");
+                Console.WriteLine("Please enter an actual day of the week");
             }
             
         }
