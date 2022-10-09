@@ -1,6 +1,8 @@
 <h2> C# and Unity</h2>
 <p> This respository was used during my time at The Tech Academy</p>
 <br>
+<h2> Launguages </h2>
+<p>C#
 
 <h3> Projects </h3>
 <br>
