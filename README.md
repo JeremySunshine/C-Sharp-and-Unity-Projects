@@ -1,5 +1,5 @@
 <h2> C# and Unity</h2>
-<p> This respository was used during my time at The Tech Academy</p>
+<p> This respository was used during my time at The Tech Academy, where i learned the basics of how to use the programing language C Sharp and use of the Game Engine Unity</p>
 <br>
 <h2> Launguages </h2>
 <p>C#
@@ -14,5 +14,8 @@
 <br> 
 <h2> Date and Time Project</h2>
 <p> This project was a simple application that would tell you the current date and time, then asking user to input a number. It will then add that number to the current date and time and tell you the future time. </p>
+<br>
+<h2> Live Project</h2>
+<p> MyLive roject was at the end of my course where i was tasked with creating a 2-D game in Unity. With the use of C Sharp I was able to make a multy level Mini Golf game. Complete with a Main menu, in-game music, sfx, and a score tracker. 
 
 
